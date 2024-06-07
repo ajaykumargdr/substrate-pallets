@@ -1,0 +1,2 @@
+[workspace]
+members = ["custom-token", "guessing-number-game"]
